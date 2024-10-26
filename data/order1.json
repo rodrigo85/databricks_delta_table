@@ -1,0 +1,150 @@
+{
+  "list": {
+    "meta": {
+      "totalCount": 78450,
+      "limit": 10,
+      "nextCursor": "?limit=10&hasMoreElements=true&soIndex=78450&poIndex=11&partnerId=100009&sellerId=8&status=Created&createdStartDate=2013-08-16&createdEndDate=2019-10-24T17:41:15.701Z"
+    },
+    "elements": {
+      "order": [
+        {
+          "purchaseOrderId": "5792982839410",
+          "customerOrderId": "6681962097196",
+          "customerEmailId": "new_customer@relay.test.com",
+          "orderType": "REGULAR",
+          "orderDate": 1601903550000,
+          "shippingInfo": {
+            "phone": "7992381679",
+            "estimatedDeliveryDate": 1602375600000,
+            "estimatedShipDate": 1602069600000,
+            "methodCode": "Express",
+            "postalAddress": {
+              "name": "John Doe",
+              "address1": "123 New Address",
+              "city": "New York",
+              "state": "NY",
+              "postalCode": "10001",
+              "country": "USA",
+              "addressType": "RESIDENTIAL"
+            }
+          },
+          "orderLines": {
+            "orderLine": [
+              {
+                "lineNumber": "1",
+                "item": {
+                  "productName": "Samsung Galaxy S21 Ultra",
+                  "sku": "SGS21U_128GB"
+                },
+                "charges": {
+                  "charge": [
+                    {
+                      "chargeType": "PRODUCT",
+                      "chargeName": "ItemPrice",
+                      "chargeAmount": {
+                        "currency": "USD",
+                        "amount": 1200
+                      },
+                      "tax": {
+                        "taxName": "Tax1",
+                        "taxAmount": {
+                          "currency": "USD",
+                          "amount": 100
+                        }
+                      }
+                    },
+                    {
+                      "chargeType": "SHIPPING",
+                      "chargeName": "Shipping",
+                      "chargeAmount": {
+                        "currency": "USD",
+                        "amount": 25
+                      }
+                    }
+                  ]
+                },
+                "orderLineQuantity": {
+                  "unitOfMeasurement": "EACH",
+                  "amount": "2"
+                },
+                "statusDate": 1601903748000,
+                "orderLineStatuses": {
+                  "orderLineStatus": [
+                    {
+                      "status": "Created",
+                      "statusQuantity": {
+                        "unitOfMeasurement": "EACH",
+                        "amount": "2"
+                      }
+                    }
+                  ]
+                },
+                "fulfillment": {
+                  "fulfillmentOption": "S2H",
+                  "shipMethod": "EXPEDITED",
+                  "pickUpDateTime": 1602289200000
+                }
+              },
+              {
+                "lineNumber": "2",
+                "item": {
+                  "productName": "Apple AirPods Pro (2nd Gen)",
+                  "sku": "AirPodsPro_2ndGen"
+                },
+                "charges": {
+                  "charge": [
+                    {
+                      "chargeType": "PRODUCT",
+                      "chargeName": "ItemPrice",
+                      "chargeAmount": {
+                        "currency": "USD",
+                        "amount": 250
+                      },
+                      "tax": {
+                        "taxName": "Tax1",
+                        "taxAmount": {
+                          "currency": "USD",
+                          "amount": 20
+                        }
+                      }
+                    },
+                    {
+                      "chargeType": "SHIPPING",
+                      "chargeName": "Shipping",
+                      "chargeAmount": {
+                        "currency": "USD",
+                        "amount": 10
+                      }
+                    }
+                  ]
+                },
+                "orderLineQuantity": {
+                  "unitOfMeasurement": "EACH",
+                  "amount": "1"
+                },
+                "statusDate": 1601903748000,
+                "orderLineStatuses": {
+                  "orderLineStatus": [
+                    {
+                      "status": "Created",
+                      "statusQuantity": {
+                        "unitOfMeasurement": "EACH",
+                        "amount": "1"
+                      }
+                    }
+                  ]
+                },
+                "fulfillment": {
+                  "fulfillmentOption": "S2H",
+                  "shipMethod": "EXPEDITED",
+                  "pickUpDateTime": 1602289200000
+                }
+              }
+            ]
+          },
+          "shipNode": {}
+        }
+      ]
+    }
+  }
+}

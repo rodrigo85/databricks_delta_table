@@ -1,0 +1,52 @@
+[
+  {
+    "productName": "Samsung Galaxy S21 Ultra",
+    "sku": "SGS21U_128GB",
+    "initialInventory": 100
+  },
+  {
+    "productName": "Sony WH-1000XM5 Wireless Headphones",
+    "sku": "SONY_WHR_1000XM5",
+    "initialInventory": 150
+  },
+  {
+    "productName": "Apple iPad Pro 12.9-inch",
+    "sku": "iPadPro_12_9_128GB",
+    "initialInventory": 75
+  },
+  {
+    "productName": "Bose QuietComfort 45 Headphones",
+    "sku": "BoseQC45",
+    "initialInventory": 120
+  },
+  {
+    "productName": "Sony PlayStation 5 Console",
+    "sku": "PS5_CONSOLE",
+    "initialInventory": 200
+  },
+  {
+    "productName": "Nintendo Switch OLED",
+    "sku": "NintendoSwitch_OLED",
+    "initialInventory": 80
+  },
+  {
+    "productName": "Apple AirPods Pro (2nd Gen)",
+    "sku": "AirPodsPro_2ndGen",
+    "initialInventory": 180
+  },
+  {
+    "productName": "Dyson V15 Detect Cordless Vacuum",
+    "sku": "DysonV15_Cordless",
+    "initialInventory": 90
+  },
+  {
+    "productName": "Google Pixel 6 Pro",
+    "sku": "Pixel6Pro_128GB",
+    "initialInventory": 60
+  },
+  {
+    "productName": "Open Box Apple Watch Series 8 GPS 41mm Silver Aluminum Case with White Sport Band - S/M",
+    "sku": "skutotestsparkjobsmartwatch4",
+    "initialInventory": 50
+  }
+]
