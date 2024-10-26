@@ -1,6 +1,6 @@
-# E-commerce Delta Lake Data Processing
+# E-commerce Data Processing in Databricks with Delta Tables
 
-A PySpark-based data processing pipeline for handling and managing e-commerce order data. This project utilizes Delta Lake for efficient upsert operations, error handling, and inventory management, offering a scalable ETL solution for e-commerce data in Delta tables.
+A PySpark-based data processing pipeline developed in Databricks for handling and managing e-commerce order data. This project utilizes Delta Lake for efficient upsert operations, error handling, and inventory management, offering a scalable ETL solution for e-commerce data stored in Delta tables.
 
 ## Project Structure
 
